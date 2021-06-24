@@ -1,0 +1,14 @@
+.button {
+  padding: 10px;
+  border: 0px;
+  border-radius: 5px;
+}
+
+#addpacman {
+  background: lightblue;
+}
+
+#start {
+  background: green;
+  color: white;
+}
